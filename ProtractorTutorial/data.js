@@ -15,7 +15,7 @@ module.exports = {
 			secondinput:"2",
 			result:"7"
 		},
-		FourData: {
+		FourthData: {
 			firstinput:"15",
 			secondinput:"12",
 			result:"17"
