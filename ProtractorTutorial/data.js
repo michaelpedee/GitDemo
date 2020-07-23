@@ -14,6 +14,11 @@ module.exports = {
 			firstinput:"5",
 			secondinput:"2",
 			result:"7"
+		},
+		ThirdData: {
+			firstinput:"15",
+			secondinput:"12",
+			result:"17"
 		}
 	}
 }
