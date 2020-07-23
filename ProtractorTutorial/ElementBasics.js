@@ -21,6 +21,6 @@ describe('Protractor Element Demo', function(){
 	});
 	
 	afterEach(function(){
-		console.log("Test is completed");
+		console.log("Test is completed.");
 	});
 })
